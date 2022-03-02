@@ -1,13 +1,4 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
-}
- 
-
-Example 2:
-
-{
     "quiz": {
         "sport": {
             "q1": {
