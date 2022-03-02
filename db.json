@@ -1,6 +1,6 @@
 {
   "posts": [
-    {@{dxsId=33556736; value=23,353172}, @{dxsId=67109120; value=0,000000}, @{dxsId=16780032; value=0}} @{sessionId=0}
+    {dxsId=33556736; value=23,353172}, {dxsId=67109120; value=0,000000}, {dxsId=16780032; value=0}} @{sessionId=0}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
